@@ -5,21 +5,23 @@
 public class Recorrido {
     
     public static void main(String[] args) {
-        String codigo="Ynkxquip Nuqrky, wak ks as vxÃ±siÃ±vÃ±u Jueqk zksÃ±g vxkbÃ±yzu qqgrgx \n" 
-                +"YnkxxÃ±sluxj, ky as jkzkizÃ±bk vxÃ±bgju, gqzu, jkqmgju, lxÃ±u, Ã±xusÃ±iu, \n" 
-                +"Ã±smksÃ±uyu k Ã±szkqkizagqrkszk Ã±swaÃ±kzu. Cgzyus qu jkyixÃ±hk lÃ±yÃ±igrkszk \n" 
-                +"jkq yÃ±maÃ±kszk ruju gq vuiu jk iusuikxyk. "
-                +"Ya kyzgzaxg yuhxkvgyghg quy ykÃ±y vÃ±ky, e kxg zgs kdzxguxjÃ±sgxÃ±grkszk \n" 
-                +"ksoazu, wak vxujaiÃ±g qg Ã±rvxkyÃ±us jk ykx gas rgy gqzu. ZksÃ±g qg rÃ±xgjg \n" 
-                +"gmajg e vkskzxgszk, e ya sgxÃ±f, lÃ±sg e gmaÃ±qktg, jghg gq iusoaszu jk yay \n" 
-                +"lgiiÃ±usky as gÃ±xk jk bÃ±bkfg e jk xkyuqaiÃ±us. "
-                +"Gaswak rainuy ngs skmgju kyzg uviÃ±us, kq kyixÃ±zux hgyu ya jkyixÃ±viÃ±us \n" 
-                +"jk nuqrky ks as gszÃ±mau grÃ±mu jk qg lgiaqzgj, qqgrgju YnkxxÃ±sluxj, kq \n" 
-                +"iagq qqkmu g luxrgx vgxzk jk Yiuzqgsj Egxj, mxgs grÃ±mu e gqÃ±gju jk iusgs \n" 
-                +"jueqk e iaegy jkyixÃ±viÃ±usky jk bÃ±bksiÃ±gy vuqÃ±iÃ±gigy Ã±syvÃ±xgxus raingy jk \n" 
-                +"yay uhxgy.";
-        String abc="abcdefghijklmnÃ±opqrstuvwxyz";
-        String abc2="ABCDEFGHIJKLMNÃ‘OPQRSTUVWXYZ";
+        String codigo="Ynkxquip Nuqrky, wak ks as vxñsiñvñu Jueqk zksñg vxkbñyzu qqgrgx\n" +
+"Ynkxxñsluxj, ky as jkzkizñbk vxñbgju, gqzu, jkqmgju, lxñu, ñxusñiu,\n" +
+"ñsmksñuyu k ñszkqkizagqrkszk ñswañkzu. Cgzyus qu jkyixñhk lñyñigrkszk\n" +
+"jkq yñmañkszk ruju gq vuiu jk iusuikxykf\n" +
+"\n" +
+"Ya kyzgzaxg yuhxkvgyghg quy ykñy vñky, e kxg zgs kdzxguxjñsgxñgrkszk\n" +
+"ksoazu, wak vxujaiñg qg ñrvxkyñus jk ykx gas rgy gqzu. Zksñg qg rñxgjg\n" +
+"gmajg e vkskzxgszk, e ya sgxñf, lñsg e gmañqktg, jghg gq iusoaszu jk yay\n" +
+"lgiiñusky as gñxk jk bñbkfg e jk xkyuqaiñus.\n" +
+"\n" +
+"Gaswak rainuy ngs skmgju kyzg uviñus, kq kyixñzux hgyu ya jkyixñviñus\n" +
+"jk Nuqrky ks as gszñmau grñmu jk qg lgiaqzgj, qqgrgju Ynkxxñsluxj, kq\n" +
+"iagq qqkmu g luxrgx vgxzk jk Yiuzqgsj Egxj, mxgs grñmu e gqñgju jk iusgs\n" +
+"jueqk e iaegy jkyixñviñusky jk bñbksiñgy vuqñiñgigy ñsyvñxgxus raingy jk\n" +
+"yay uhxgy.";
+        String abc="abcdefghijklmnñopqrstuvwxyz";
+        String abc2="ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
         String nuevo="";
           
         for(int i=0;i<codigo.length();i++){
@@ -29,7 +31,8 @@ public class Recorrido {
                         if(aux<0)
                           aux=aux+27;   
                         nuevo=nuevo+abc2.charAt(aux);
-                    }else if(codigo.charAt(i)==abc.charAt(j)){
+                    }
+                    if(codigo.charAt(i)==abc.charAt(j)){
                         int aux=j-6;
                         if(aux<0)
                           aux=aux+27;   
