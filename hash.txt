@@ -1,0 +1,195 @@
+---------ING CIVIL
+"#día":Día
+"#mes":Mes
+"#año":Año
+"#nobreAgente":Nombre del Agente
+"#noOficio":No. Oficio
+"#fechaOficio":Fecha Oficio
+"#lugarRecepcion":Lugar de Recepcion
+"#fechaRecepcion":Fecha de Recepcion
+"#horaRecepcion":Hora de Recepcion
+"#agenteMP":Agente del MinAgente del Ministerio Publico
+"#agencia":Agencia
+"#ubicacionInmueble":Ubicación del Inmueble
+"#descripcionLugar":Descripcion del Lugar
+"#operaciones":Operaciones
+"#observaciones":Observaciones
+"#conclusiones":Conclusiones
+"#hora":Hora
+"#fecha":Fecha
+"#ofendido":Ofendido
+"#noMetros":No. Metros
+"#mConflicto":Metros en Conflicto
+"#ciudadano":Ciudadano
+"#alNorte":Al Norte
+"#alSur":Al Sur
+"#alEste":Al Este
+"#alOeste":Al Oeste
+"#areaTotal":Area Total
+"#informe":Informe
+-----------TRANSITO TERRESTRE
+"#diaOficio":Día del Oficio
+"#mesOficio":Mes del Oficio
+"#añoOficio":Año del Oficio
+"#diaRecepcion":Dia de Recepcion
+"#mesRecepcion":Mes de Recepcion
+"#añoRecepcion":Año de Recepcion
+"#hecho":Hecho
+"#lugar":Lugar
+"#fechaSuceso":Fecha del Suceso
+"#horaSuceso":Hora del Suceso
+"#conductorA":Conductor A
+"#conductorB":Conductor B
+"#hora":Hora Actual
+"#fecha":Fecha Actual
+"#involucradoA":Involucrado A
+"#versionInvolucradoA":Version del Involucrado A
+"#involucradoB":Involucrado B
+"#versionInvolucradoB":Version del Involucrado B
+"#vehiculoA":Vehiculo A
+"#estadoVehiculoA":Estado del Vehiculo A
+"#vehiculoB":Vehiculo B
+"#estadoVehiculoB":Estado del Vehiculo B
+"#lugarDelHecho":Lugar del Del Hecho
+"#conclusion":Conclusion
+"#descripcionSolicitud":Descripcion de la Solicitud
+"#reporteCumplimiento":Reporte de Cumplimiento
+------------RETRATO HABLADO
+"#horaSolicitud":Hora Solicitud
+"#citaTextual":Cita Textual
+"#planteamientoProblema":Planteamiento del Problema
+"#nombre":Nombre
+"#sexo":Sexo 
+"#edad":Edad 
+"#identificadoCon":Identificado Con
+"#domicilio":Domicilio
+"#lugarEntrevista":Lugar de la Entrevista
+"#documentosExhibidos":Documentos Exhibidos
+"#edadAparente":Edad Aparente
+"#estaturaEstimada":Estatura Estimada
+"#complexion":Complexion
+"#tez":Tez
+"#delito":Delito
+"#lugarHecho":Lugar del Hecho
+"#fechaHecho":Fecha del Hecho
+"#senias":Senias
+"#observaciones":Observaciones
+"#perito":Nombre del Perito
+"#fechaLevantamiento":Fecha del Hecho
+"#entrevistas":Entrevistas
+"#descripcionObjetoEstudio":Descripcion del Objeto de Estudio
+"#base":Base
+"#muestra":Muestra
+"#pelo":Pelo
+"#frente":Frente
+"#peloFrente":Pelo en la Frente
+"#ceja":Ceja
+"#palpebral":Palpebral
+"#nariz":Nariz
+"#espacioNasolabial":Espacio Nasolabial
+"#labios":Labios
+"#menton":Menton
+"#contornoFacial":Contorno Facial
+"#particularidades":Particularidades
+"#conclusiones":Conclusiones
+"#cadenaCustodia":Cadena Custodia
+"#problemaPlanteado":Problema Planteado
+"#baseCotejo":Base Cotejo
+"#muestraCotejo":Muestra Cotejo
+"#numFotografia":Num Fotografia
+"#analisisComparativo":Analisis Comparativo
+"#numFotografiaX":Numero Fotografia X
+"#numForografiaY":Numero Forografia Y
+"#evaluacionResultados":Evaluacion Resultados
+--------------Quimica Forense
+"#anioOficio":Año del Oficio
+"#anioRecepcion":Año de Recepcion
+"#personaEntrega":Persona que Entrega
+"#personalDe":Personal De
+"#datosBolsa":Datos de la Bolsa
+"#contenidoSobre":Contenido del Sobre
+"#identificados":Identificados
+"#primerContenido":Primer Contenido
+"#datosEtiqueta":Datos de la Etiqueta
+"#quimicoFB":Quimico Farmaco Biologo
+"#dentroSobre":Dentro del Sobre
+"#identificado":Identificado
+"#contenidoInterior":Contenido Interior
+"#colorPintura":Color de la Pintura
+"#vehiculo":Vehiculo
+"#muestraColorPintura":Muestra de Pintura Color
+"#tomadaDel":Tomada Del
+"#placasCirculacion":Placas Circulacion
+"#tonoColor":Tono Color
+"#colorRaspadura":Color Raspadura
+"#residuosPintura":Residuos de Pintura
+"#doctor":Doctor
+"#quimico":Quimico
+"#leyendaFrasco":Leyenda del Frasco
+"#fechaHoraRecepcionOficioAnalista":Fecha y Hora de Recepcion del Oficio por el Analista
+"#tipoMuestra":Tipo de Muestra
+"#zonaAnatomicaObtencionMuestra":Zona Anatomica de la Obtencion de la Muestra
+"#cantidadmL":Cantidad en ml
+"#avPrevia":Av Previa
+"#responsable":Responsable
+"#fechaEtiqueta":Fecha de la Etiqueta
+"#horaEtiqueta":Hora de la Etiqueta
+"#muestra":Muestra
+"#fechaHoraRecepcionMuestra":Fecha de la Muestra
+"#entregadoPor":Entregado Por
+"#leyenda":Leyenda
+"#porcentaje":Porcentaje
+"#primeraGarrafa":Primera Garrafa
+"#segundaGarrafa":Segunda Garrafa
+"#numeroEtiqueta":Numero de la Etiqueta
+"#volumenL":Volumen en Litros
+"#tamanioMuestra":Tamaño de la Muestra
+"#numeroMuestras":Numero de Muestras
+"#volumenmL":Volumen en Mililitros
+"#embalaje":Embalaje
+"#fechaHoraRecepcionMuestras":Fecha y Hora de la Recepcion de las MuesFecha y Hora de la Recepcion de las Muestras
+"#tomadasPor":Tomadas Por
+"#hidrocarburo":Hidrocarburo Detectado
+"#colorBolsa":Color de la Bolsa
+"#leyendaBolsa":Leyenda de la Bolsa
+"#interiorBolsa":Interior de la Bolsa
+"#diaContestacion":Día de Contestacion
+"#horaContestacion":Hora de Contestacion
+"#acompaniante":Acompañante
+"#muestraDe":Muestra de
+"#fechaHoraRecepcionOficioMuestraAnalista":Fecha y Hora de la Recepcion del Oficio o de la Muestra por el Analista
+"#remitidoPor":Remitido Por
+"#leyendaSobre":Leyenda del Sobre
+"#contenidoBolsa":Contenido de la Bolsa
+"#contenido":Contenido
+"#exudado":Exudado
+"#tomadoA":Tomado a
+"#grupoSanguineo":Grupo Sanguineo
+"#nombreOficio":Nombre del Oficio
+"#factorRH":Factor Rh
+"#interior":Interior de la Bolsa
+"#marcaArma":Marca del Arma
+"#fabricacionArma":Fabricacion del Arma
+"#matriculaArma":Matricula del Arma
+"#cachasDeArma":Cachas del Arma
+"#suciedadArma":Suciedad del Arma
+"#parteDelArma":Parte del Arma
+"#tipoArma":Tipo de Arma
+"#numSerieArma":Numero de Serie del Arma
+"#objetoEstudio":Objeto de Estudio
+"#personaRemitente":PePersona a la que se Remite
+"#colorManchas":Color de las Manchas
+"#zonaPrenda":Zona de la Prenda
+"#datosIdentificacion":Datos de Identificacion
+"#diaToma":Día deDía de la Toma de la Muestra
+"#horaToma":Hora de la Toma de la Muestra
+"#instalaciones":Instalaciones
+"#horaTomaMuestra":Hora de la Toma de la Muestra
+"#fechaTomaMuestra":Fecha de la Toma de la Muestra
+"#persona":Persona a Quien le Tomaron las Muestras
+"#notas":Notas
+
+
+
+
+
